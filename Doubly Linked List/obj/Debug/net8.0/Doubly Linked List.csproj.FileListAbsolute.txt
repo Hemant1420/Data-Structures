@@ -1,0 +1,14 @@
+E:\c# projects\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.exe
+E:\c# projects\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.deps.json
+E:\c# projects\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.runtimeconfig.json
+E:\c# projects\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.dll
+E:\c# projects\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.pdb
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.AssemblyInfoInputs.cache
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.AssemblyInfo.cs
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.csproj.CoreCompileInputs.cache
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.dll
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\refint\Doubly Linked List.dll
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.pdb
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.genruntimeconfig.cache
+E:\c# projects\Doubly Linked List\obj\Debug\net8.0\ref\Doubly Linked List.dll
