@@ -1,0 +1,14 @@
+E:\c# projects\LinkedListNew\bin\Debug\net8.0\LinkedListNew.exe
+E:\c# projects\LinkedListNew\bin\Debug\net8.0\LinkedListNew.deps.json
+E:\c# projects\LinkedListNew\bin\Debug\net8.0\LinkedListNew.runtimeconfig.json
+E:\c# projects\LinkedListNew\bin\Debug\net8.0\LinkedListNew.dll
+E:\c# projects\LinkedListNew\bin\Debug\net8.0\LinkedListNew.pdb
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.AssemblyInfoInputs.cache
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.AssemblyInfo.cs
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.csproj.CoreCompileInputs.cache
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.dll
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\refint\LinkedListNew.dll
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.pdb
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\LinkedListNew.genruntimeconfig.cache
+E:\c# projects\LinkedListNew\obj\Debug\net8.0\ref\LinkedListNew.dll

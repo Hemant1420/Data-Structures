@@ -1,0 +1,14 @@
+E:\c# projects\StackPractice\bin\Debug\net8.0\StackPractice.exe
+E:\c# projects\StackPractice\bin\Debug\net8.0\StackPractice.deps.json
+E:\c# projects\StackPractice\bin\Debug\net8.0\StackPractice.runtimeconfig.json
+E:\c# projects\StackPractice\bin\Debug\net8.0\StackPractice.dll
+E:\c# projects\StackPractice\bin\Debug\net8.0\StackPractice.pdb
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.AssemblyInfoInputs.cache
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.AssemblyInfo.cs
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.csproj.CoreCompileInputs.cache
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.dll
+E:\c# projects\StackPractice\obj\Debug\net8.0\refint\StackPractice.dll
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.pdb
+E:\c# projects\StackPractice\obj\Debug\net8.0\StackPractice.genruntimeconfig.cache
+E:\c# projects\StackPractice\obj\Debug\net8.0\ref\StackPractice.dll

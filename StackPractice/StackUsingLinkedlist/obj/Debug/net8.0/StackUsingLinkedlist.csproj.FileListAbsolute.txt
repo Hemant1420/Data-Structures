@@ -1,0 +1,14 @@
+E:\c# projects\StackUsingLinkedlist\bin\Debug\net8.0\StackUsingLinkedlist.exe
+E:\c# projects\StackUsingLinkedlist\bin\Debug\net8.0\StackUsingLinkedlist.deps.json
+E:\c# projects\StackUsingLinkedlist\bin\Debug\net8.0\StackUsingLinkedlist.runtimeconfig.json
+E:\c# projects\StackUsingLinkedlist\bin\Debug\net8.0\StackUsingLinkedlist.dll
+E:\c# projects\StackUsingLinkedlist\bin\Debug\net8.0\StackUsingLinkedlist.pdb
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.AssemblyInfoInputs.cache
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.AssemblyInfo.cs
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.csproj.CoreCompileInputs.cache
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.dll
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\refint\StackUsingLinkedlist.dll
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.pdb
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\StackUsingLinkedlist.genruntimeconfig.cache
+E:\c# projects\StackUsingLinkedlist\obj\Debug\net8.0\ref\StackUsingLinkedlist.dll
