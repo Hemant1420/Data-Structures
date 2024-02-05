@@ -4,13 +4,14 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace BST_Practice
 {
     public class Operations<T> where T : IComparable<T>
     {
 
-        Node<T> Root;
+        public Node<T> Root;
 
         public Operations()
         {
@@ -38,7 +39,7 @@ namespace BST_Practice
                 {
                     if (temp.Leftnode == null)
                     {
-                        temp.Leftnode = null;
+                        temp.Leftnode = newNode;
                         return;
                     }
 
@@ -64,19 +65,9 @@ namespace BST_Practice
 
         }
 
-       /* public void print_InOrder(T value) 
-        {
-            Node<T> temp = Root;
+       
+        
 
-            
-            while(true)
-            if(temp.Leftnode != null)
-            {
-                Console.WriteLine($"{temp.Leftnode.Value}");
-                    temp = temp.Leftnode;
-            }
-
-        }*/
 
     }
 }
